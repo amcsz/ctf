@@ -1,2 +1,2 @@
 # ctf
-CTF chall sols
+CTF chall sols. mostly for myself so they are pretty short
