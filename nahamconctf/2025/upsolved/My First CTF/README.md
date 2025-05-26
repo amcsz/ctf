@@ -1,0 +1,1 @@
+try to open flag.txt on the website and it won't let you, but take flag.txt and do rot1 and it works.

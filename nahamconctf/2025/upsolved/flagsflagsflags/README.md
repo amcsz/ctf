@@ -1,0 +1,1 @@
+brute force the flags, or use ida to set a breakpoint and extract flag.
